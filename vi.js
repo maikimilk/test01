@@ -4,6 +4,6 @@ element.addEventListener('click', clickFunction);
 
 function clickFunction() {
     console.log("クリックされました");
-    navigator.vibrate(100);
+    navigator.vibrate(1000);
 }
 
